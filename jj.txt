@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 141A-4355
+
+ Directory of C:\Users\JamalBasha\Desktop\java project1
+
+07/17/2017  11:56 AM    <DIR>          .
+07/17/2017  11:56 AM    <DIR>          ..
+07/17/2017  11:40 AM               676 Hello.class
+07/17/2017  10:34 AM               149 Hello.java
+07/17/2017  11:56 AM               468 index.txt
+07/17/2017  11:56 AM                 0 jj.txt
+               4 File(s)          1,293 bytes
+               2 Dir(s)  10,967,994,368 bytes free
